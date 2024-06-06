@@ -56,44 +56,44 @@ public class MainActivity extends AppCompatActivity {
 
 
 // for recyclerview1
-        Image1.add("https://i.redd.it/tpsnoz5bzo501.jpg");
-        Names.add("Trondheim");
+        Image1.add("https://i.pinimg.com/564x/42/80/e2/4280e2292bcc3edc3e6d2c20ef32496b.jpg");
+        Names.add("Trondheima");
 
-        Image1.add("https://i.redd.it/qn7f9oqu7o501.jpg");
+        Image1.add("https://i.pinimg.com/564x/4d/93/fd/4d93fdd149ec7b2eada634da29b62833.jpg");
         Names.add("Portugal");
 
         Image1.add("https://i.redd.it/j6myfqglup501.jpg");
         Names.add("Rocky");
 
 
-        Image1.add("https://i.redd.it/0h2gm1ix6p501.jpg");
+        Image1.add("https://i.pinimg.com/564x/3d/fe/32/3dfe3258d764aaa3908786ffbed1c64d.jpg");
         Names.add("Mahahual");
 
-        Image1.add("https://i.redd.it/k98uzl68eh501.jpg");
+        Image1.add("https://i.pinimg.com/564x/d2/83/6f/d2836fe9693f80ff86284743bba5f559.jpg");
         Names.add("Frozen");
 
 
-        Image1.add("https://i.redd.it/glin0nwndo501.jpg");
-        Names.add("White");
+        Image1.add("https://i.pinimg.com/564x/16/b6/68/16b668236d2a573065fe729b909e3a92.jpg");
+        Names.add("Whitent");
 
-        Image1.add("https://i.redd.it/obx4zydshg601.jpg");
+        Image1.add("https://i.pinimg.com/564x/20/a6/eb/20a6eb637f5743a6f29d7866285a92c2.jpg");
         Names.add("Austrailia");
 
-        Image1.add("https://i.imgur.com/ZcLLrkY.jpg");
-        Names.add("Washington");
+        Image1.add("https://i.pinimg.com/564x/37/3e/0a/373e0abfdc6e92c5cce885ebacc2c095.jpg");
+        Names.add("Washika");
 
 
 // for recyclerview2
 
 
-        image2.add("https://i.redd.it/tpsnoz5bzo501.jpg");
-        text1.add("Trondheim");
+        image2.add("https://i.pinimg.com/564x/42/80/e2/4280e2292bcc3edc3e6d2c20ef32496b.jpg");
+        text1.add("Trondheima");
         text2.add("Hello,how are u?");
         text3.add("9:00 pm");
 
-        image2.add("https://i.redd.it/qn7f9oqu7o501.jpg");
+        image2.add("https://i.pinimg.com/564x/4d/93/fd/4d93fdd149ec7b2eada634da29b62833.jpg");
         text1.add("Portugal");
-        text2.add("Good night,bye");
+        text2.add("Good night,bye.");
         text3.add("8:45 pm");
 
         image2.add("https://i.redd.it/j6myfqglup501.jpg");
@@ -102,31 +102,33 @@ public class MainActivity extends AppCompatActivity {
         text3.add("8:30 pm");
 
 
-        image2.add("https://i.redd.it/0h2gm1ix6p501.jpg");
-        text1.add("Mahahual");
+        image2.add("https://i.pinimg.com/564x/3d/fe/32/3dfe3258d764aaa3908786ffbed1c64d.jpg");
+        text1.add("Mahahuala");
         text2.add("Can we meet?");
         text3.add("8:24 pm");
 
-        image2.add("https://i.redd.it/k98uzl68eh501.jpg");
+        image2.add("https://i.pinimg.com/564x/d2/83/6f/d2836fe9693f80ff86284743bba5f559.jpg");
         text1.add("Frozen");
         text2.add("Are you well?");
-        text3.add("8:20 pm");
+        text3.add("Thu");
 
 
-        image2.add("https://i.redd.it/glin0nwndo501.jpg");
-        text1.add("White");
-        text2.add("I wanna see you");
-        text3.add("8:10 pm");
+        image2.add("https://i.pinimg.com/564x/16/b6/68/16b668236d2a573065fe729b909e3a92.jpg");
+        text1.add("Whitent");
+        text2.add("I wanna see you.");
+        text3.add("Wed");
 
-        image2.add("https://i.redd.it/obx4zydshg601.jpg");
+        image2.add("https://i.pinimg.com/564x/20/a6/eb/20a6eb637f5743a6f29d7866285a92c2.jpg");
         text1.add("Austrailia");
-        text2.add("Hi,i miss you");
-        text3.add("8:00 pm");
+        text2.add("Hi,i miss you.");
+        text3.add("Fri");
 
-        image2.add("https://i.imgur.com/ZcLLrkY.jpg");
-        text1.add("Washington");
-        text2.add("Allah hafez,bye");
-        text3.add("7:53 pm");
+        //image2.add("https://i.imgur.com/ZcLLrkY.jpg");
+
+        image2.add("https://i.pinimg.com/564x/37/3e/0a/373e0abfdc6e92c5cce885ebacc2c095.jpg");
+        text1.add("Washika");
+        text2.add("Allah hafez,bye.");
+        text3.add("Sat");
 
 
 

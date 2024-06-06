@@ -47,9 +47,9 @@
                 </TextView>
 
                 <LinearLayout
-                    android:layout_width="match_parent"
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_weight="2"
+
                     android:orientation="horizontal">
 
                     <TextView
@@ -58,7 +58,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="22dp"
                         android:layout_marginTop="5dp"
-                        android:textSize="18dp"
+                        android:textSize="16dp"
                         android:layout_weight="1"
                         android:text="Hello">
 
@@ -68,10 +68,12 @@
                         android:id="@+id/text3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginLeft="22dp"
+                        android:layout_marginLeft="5dp"
                         android:layout_marginTop="5dp"
                         android:layout_weight="1"
-                        android:textSize="18dp"
+                        android:layout_marginRight="70dp"
+
+                        android:textSize="15dp"
                         android:text="11:53pm">
 
                     </TextView>
